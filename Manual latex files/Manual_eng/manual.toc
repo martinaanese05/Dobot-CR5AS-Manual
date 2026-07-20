@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Specs and data}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Specifics of CR5AS}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Specifics of DH Robotics PGC-140-50}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Connectivity}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Safety protocols}{4}{section.3}%
+\contentsline {section}{\numberline {4}Connecting to the Dobot}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Using the DobotStudio Pro with a PC or tablet}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Using the Dashboard and TCP mode}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Enabling/Disabling TCP}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}How to use DobotStudio Pro}{8}{section.5}%
+\contentsline {section}{\numberline {6}How to program with Python scripts}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Additional information}{19}{subsection.6.1}%

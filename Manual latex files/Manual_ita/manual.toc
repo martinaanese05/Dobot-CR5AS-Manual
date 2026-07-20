@@ -1,0 +1,15 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}%
+\contentsline {section}{\numberline {2}Specifiche e dati}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Specifiche del CR5AS}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Specifiche del gripper DH Robotics PGC-140-50}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Connettività}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Protocolli di sicurezza}{4}{section.3}%
+\contentsline {section}{\numberline {4}Connettersi al Dobot}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Utilizzare DobotStudio Pro con un PC o un tablet}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Utilizzare il Dashboard e la modalità TCP}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Abilitare/Disabilitare il TCP}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Come usare DobotStudio Pro}{8}{section.5}%
+\contentsline {section}{\numberline {6}Come programmare con script Python}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Informazioni aggiuntive}{19}{subsection.6.1}%
