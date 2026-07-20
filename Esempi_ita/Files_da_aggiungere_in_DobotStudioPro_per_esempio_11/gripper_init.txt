@@ -1,0 +1,1 @@
+DHGripInit({id = 1})

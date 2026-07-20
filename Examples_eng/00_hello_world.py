@@ -102,6 +102,11 @@ result = dashboard.MovJ(30, 0, 0, 0, 0, 0, 1)
 print(result)
 sleep(3)
 
+print("\nMoving all joints to 0 degrees...")
+result = dashboard.MovJ(0, 0, 0, 0, 0, 0, 1)
+print(result)
+sleep(3)
+
 
 # ---------------------------------------------------------------
 # STEP 6: Disable the robot when finished

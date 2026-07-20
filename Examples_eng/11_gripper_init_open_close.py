@@ -118,16 +118,16 @@ sleep(5)  # gripper_init needs time to fully complete before anything else
 # robot for motion afterwards, even if you're not moving yet.
 ensure_motion_ready(dashboard)
 
-# PHASE 2: Open the gripper
-print("\nOpening gripper...")
-dashboard = run_gripper_script(dashboard, "gripper_open")
-ensure_motion_ready(dashboard)
-
-sleep(1)
-
-# PHASE 3: Close the gripper
+# PHASE 2: Close the gripper
 print("\nClosing gripper...")
 dashboard = run_gripper_script(dashboard, "gripper_close")
+ensure_motion_ready(dashboard)
+
+sleep(3)
+
+# PHASE 3: Opem the gripper
+print("\nOpening gripper...")
+dashboard = run_gripper_script(dashboard, "gripper_open")
 ensure_motion_ready(dashboard)
 
 print("\nDisabling robot...")
