@@ -1,4 +1,5 @@
 Project developed between April 2026 and July 2026. All the equipment was provided by Asperastra, Trieste.
+Also take a look at my other projects on my personal site: https://martinaanese05.github.io
 
 # Dobot CR5AS Manual
 
@@ -25,7 +26,7 @@ If you need any help or find any error, feel free to reach out at [martinaanese0
 # Manuale Dobot CR5AS (Italiano)
 
 Progetto sviluppato tra aprile 2026 e luglio 2026. Tutta l'attrezzatura è stata fornita da Asperastra, Trieste.
-Dai anche un'occhiata al progetto sul mio sito personale: https://martinaanese05.github.io
+Dai anche un'occhiata ai miei altri progetti sul mio sito personale: https://martinaanese05.github.io
 
 Un manuale per il braccio robotico Dobot CR5AS equipaggiato con il gripper DH Robotics PGC-140, scritto per chiunque voglia imparare le basi del software proprietario e andare oltre programmandolo in modalità TCP con script esterni.
 
