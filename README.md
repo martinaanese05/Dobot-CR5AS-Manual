@@ -1,4 +1,4 @@
-Project developed between April 2026 and July 2026. All the equipment was provided by Asperastra, Trieste.
+A Project developed between April 2026 and July 2026. All the equipment was provided by Asperastra, Trieste.
 Also take a look at my other projects on my personal site: https://martinaanese05.github.io
 
 # Dobot CR5AS Manual
@@ -43,5 +43,7 @@ Copre specifiche, sicurezza, connessione al robot, uso di DobotStudio Pro, e pro
 1. Scarica questo repository e decomprimilo.
 2. Leggi attentamente il Manuale.
 3. Per provare gli script di esempio: decomprimi la cartella `Examples` ed esegui il file che ti interessa. La libreria Dobot è già inclusa, quindi non serve alcuna configurazione aggiuntiva.
+
+Note: il manuale è stato scritto in inglese e poi è stata utilizzato un plug in per tradurlo in italiano.
 
 Se hai bisogno di aiuto o trovi un errore, non esitare a contattarmi all'indirizzo [martinaanese05@gmail.com](mailto:martinaanese05@gmail.com).
